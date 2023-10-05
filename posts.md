@@ -7,3 +7,4 @@ pagination:
 
 {% include postlist.html %}
 {% include pagination.html %}
+{% include archive.html %}
